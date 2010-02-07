@@ -1,0 +1,9 @@
+target/
+.idea/**
+*.iml
+*.ipr
+grails-jira-plugin*.zip
+plugin.xml
+out/
+staging/
+

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project relativePaths="false" version="4">
+  <component name="ProjectFileVersion" converted="true" />
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/groovyTestingPresentation.iml" filepath="$PROJECT_DIR$/groovyTestingPresentation.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_5" assert-keyword="true" jdk-15="true" project-jdk-name="1.6" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="libraryTable">
+    <library name="Griffon 0.2.1">
+      <CLASSES>
+        <root url="jar:///opt/local/share/java/griffon/lib/ant-1.7.1.jar!/" />
+
+<root url="jar:///opt/local/share/java/griffon/lib/ant-junit-1.7.1.jar!/" />
+
+<root url="jar:///opt/local/share/java/griffon/lib/ant-launcher-1.7.1.jar!/" />
+
+<root url="jar:///opt/local/share/java/griffon/lib/ant-nodeps-1.7.1.jar!/" />
+
+<root url="jar:///opt/local/share/java/griffon/lib/ant-trax-1.7.1.jar!/" />
+
+<root url="jar:///opt/local/share/java/griffon/lib/asm-2.2.3.jar!/" />
+
+<root url="jar:///opt/local/share/java/griffon/lib/commons-cli-1.0.jar!/" />
+
+<root url="jar:///opt/local/share/java/griffon/lib/commons-lang-2.4.jar!/" />
+
+<root url="jar:///opt/local/share/java/griffon/lib/commons-logging-1.1.jar!/" />
+
+<root url="jar:///opt/local/share/java/griffon/lib/gant_groovy1.6-1.6.0.jar!/" />
+
+<root url="jar:///opt/local/share/java/griffon/lib/groovy-all-1.6.4.jar!/" />
+
+<root url="jar:///opt/local/share/java/griffon/lib/jline-0.9.94.jar!/" />
+
+<root url="jar:///opt/local/share/java/griffon/lib/junit-3.8.2.jar!/" />
+
+<root url="jar:///opt/local/share/java/griffon/lib/log4j-1.2.15.jar!/" />
+
+<root url="jar:///opt/local/share/java/griffon/lib/MultipleGradientPaint.jar!/" />
+
+<root url="jar:///opt/local/share/java/griffon/lib/spring-2.5.6.jar!/" />
+
+<root url="jar:///opt/local/share/java/griffon/lib/svnkit-1.2.0.jar!/" />
+
+<root url="jar:///opt/local/share/java/griffon/lib/swing-worker.jar!/" />
+
+<root url="jar:///opt/local/share/java/griffon/lib/swingx-0.9.3.jar!/" />
+
+<root url="jar:///opt/local/share/java/griffon/lib/swingxbuilder-0.1.6-SNAPSHOT.jar!/" />
+
+<root url="jar:///opt/local/share/java/griffon/dist/griffon-cli-0.2.1.jar!/" />
+
+<root url="jar:///opt/local/share/java/griffon/dist/griffon-resources-0.2.1.jar!/" />
+
+<root url="jar:///opt/local/share/java/griffon/dist/griffon-rt-0.2.1.jar!/" />
+
+
+      </CLASSES>
+    </library>
+  </component>
+</project>
