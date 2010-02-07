@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="12e82d07-0aa7-4e8c-a9dd-c46b11edbb07" name="Default" comment="" />
-    <ignored path="groovyTestingPresentation.iws" />
+    <list default="true" readonly="true" id="12e82d07-0aa7-4e8c-a9dd-c46b11edbb07" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/groovyTestingPresentation.iml" afterPath="$PROJECT_DIR$/groovyTestingPresentation.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/griffon-app/conf/Application.groovy" afterPath="$PROJECT_DIR$/griffon-app/conf/Application.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application.properties" afterPath="$PROJECT_DIR$/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/groovyTestingPresentation.iws" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/groovyTestingPresentation.ipr" afterPath="" />
+    </list>
     <ignored path=".idea/workspace.xml" />
+    <ignored path="groovyTestingPresentation.iws" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,118 +71,37 @@
   <component name="FileColors" enabled="true" enabledForTabs="true" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Slide0.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/griffon-app/slides/Slide0.groovy">
+      <file leaf-file-name="Slide2.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/griffon-app/slides/Slide2.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="80" selection-start="81" selection-end="119" vertical-scroll-proportion="0.0">
+            <state line="4" column="0" selection-start="143" selection-end="314" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConfigObject.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$GRIFFON_HOME$/lib/groovy-all-1.6.4.jar!/groovy/util/ConfigObject.class">
+      <file leaf-file-name="Slide4.groovy" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/griffon-app/slides/Slide4.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="13" selection-start="149" selection-end="149" vertical-scroll-proportion="-2.6666667">
+            <state line="15" column="17" selection-start="372" selection-end="372" vertical-scroll-proportion="0.34833091">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Slide1.groovy" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/griffon-app/slides/Slide1.groovy">
+      <file leaf-file-name="Transition.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../.griffon/0.3-BETA-2/projects/groovyTestingPresentation/plugins/transitions-0.1.3/lib/transition2D.jar!/com/bric/image/transition/Transition.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="84" selection-start="123" selection-end="123" vertical-scroll-proportion="0.047761194">
+            <state line="12" column="8" selection-start="314" selection-end="314" vertical-scroll-proportion="-7.3333335">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GroovyTestCase.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../Downloads/groovy-1.7.0/src/main/groovy/util/GroovyTestCase.java">
+      <file leaf-file-name="GooTransition2D.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../.griffon/0.3-BETA-2/projects/groovyTestingPresentation/plugins/transitions-0.1.3/lib/transition2D.jar!/com/bric/image/transition/spunk/GooTransition2D.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="44" selection-start="1529" selection-end="1537" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestCase.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$GRIFFON_HOME$/lib/junit-3.8.2.jar!/junit/framework/TestCase.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="22" selection-start="162" selection-end="162" vertical-scroll-proportion="-2.6666667">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SlideDefaults.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/griffon-app/slides/SlideDefaults.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="99" selection-start="556" selection-end="556" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GroovyShell.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../Downloads/groovy-1.7.0/src/main/groovy/lang/GroovyShell.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="439" column="93" selection-start="16660" selection-end="16671" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JUnit4Utils.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../Downloads/groovy-1.7.0/src/main/org/codehaus/groovy/vmplugin/v5/JUnit4Utils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="13" selection-start="987" selection-end="987" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestNgUtils.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../Downloads/groovy-1.7.0/src/main/org/codehaus/groovy/vmplugin/v5/TestNgUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="13" selection-start="963" selection-end="963" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Initialize.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/griffon-app/lifecycle/Initialize.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="65" selection-start="897" selection-end="897" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Application.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/griffon-app/conf/Application.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="16" selection-start="375" selection-end="380" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Config.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/griffon-app/conf/Config.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="102" column="0" selection-start="2649" selection-end="2649" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/griffon-app/resources/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0">
+            <state line="11" column="11" selection-start="368" selection-end="368" vertical-scroll-proportion="-6.6666665">
               <folding />
             </state>
           </provider>
@@ -194,6 +124,10 @@
         <option value="$PROJECT_DIR$/griffon-app/slides/Slide0.groovy" />
         <option value="$PROJECT_DIR$/griffon-app/slides/SlideDefaults.groovy" />
         <option value="$PROJECT_DIR$/griffon-app/slides/Slide1.groovy" />
+        <option value="$PROJECT_DIR$/../../../.griffon/0.2.1/projects/groovyTestingPresentation/plugins/slideware-0.2/griffon-app/controllers/griffon/slideware/CodeEditorController.groovy" />
+        <option value="$PROJECT_DIR$/griffon-app/slides/Slide2.groovy" />
+        <option value="$PROJECT_DIR$/griffon-app/slides/Slide3.groovy" />
+        <option value="$PROJECT_DIR$/griffon-app/slides/Slide4.groovy" />
       </list>
     </option>
   </component>
@@ -223,7 +157,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="PackagesPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -235,79 +169,240 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovyTestingPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovyTestingPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovyTestingPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovyTestingPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovyTestingPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="griffon-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovyTestingPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovyTestingPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="griffon-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slides" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovyTestingPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovyTestingPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="griffon-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="Favorites" />
       <pane id="PackagesPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovyTestingPresentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovyTestingPresentation-griffonPlugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovyTestingPresentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovyTestingPresentation-griffonPlugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovyTestingPresentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovyTestingPresentation-griffonPlugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bric" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovyTestingPresentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovyTestingPresentation-griffonPlugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bric" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image.transition" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovyTestingPresentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovyTestingPresentation-griffonPlugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bric" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image.transition" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovyTestingPresentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovyTestingPresentation-griffonPlugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovyTestingPresentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovyTestingPresentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovyTestingPresentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovyTestingPresentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovyTestingPresentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovyTestingPresentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bric" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovyTestingPresentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovyTestingPresentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bric" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image.transition" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovyTestingPresentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovyTestingPresentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bric" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image.transition" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="groovyTestingPresentation" />
@@ -320,27 +415,28 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Favorites" />
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="preferences.updates" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager" selected="Griffon.Griffon:groovyTestingPresentation">
     <configuration default="true" type="GriffonRunConfigurationType" factoryName="Griffon">
@@ -526,30 +622,30 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1174" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="UML Diagrams" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32900834" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900834" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993513" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Griffon View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32959402" sideWeight="0.6638889" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977018" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19080706" sideWeight="0.6645042" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19080706" sideWeight="0.6645042" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1940139" sideWeight="0.6645042" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900834" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32900834" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Graphical Navigator" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32993513" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993513" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1940139" sideWeight="0.6645042" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -626,175 +722,207 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/griffon-app/lifecycle/Ready.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/lifecycle/Shutdown.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/lifecycle/Startup.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/lifecycle/Stop.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/griffon-app/resources/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/../../../dotgriffon/0.2.1/projects/groovyTestingPresentation/plugins/slideware-0.2/lib/substance-5.2.jar!/org/jvnet/substance/skin/SubstanceMagmaLookAndFeel.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="38" selection-start="162" selection-end="187" vertical-scroll-proportion="-2.6666667">
-          <folding />
-        </state>
+        <state line="5" column="38" selection-start="162" selection-end="187" vertical-scroll-proportion="-2.6666667" />
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/../../../dotgriffon/0.2.1/projects/groovyTestingPresentation/plugins/slideware-0.2/lib/substance-5.2.jar!/org/jvnet/substance/SubstanceLookAndFeel.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="22" selection-start="166" selection-end="166" vertical-scroll-proportion="0.10142631">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/griffon-app/conf/Builder.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$GRIFFON_HOME$/dist/griffon-cli-0.2.1.jar!/org/codehaus/griffon/commons/ConfigurationHolder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="50" selection-start="233" selection-end="239" vertical-scroll-proportion="0.123839006">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$GRIFFON_HOME$/dist/griffon-cli-0.2.1.jar!/org/codehaus/griffon/cli/support/GriffonRootLoader.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0962406">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$GRIFFON_HOME$/dist/griffon-cli-0.2.1.jar!/org/codehaus/griffon/cli/support/GriffonStarter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0962406">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/griffon-app/lifecycle/Initialize.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="65" selection-start="897" selection-end="897" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$GRIFFON_HOME$/lib/groovy-all-1.6.4.jar!/groovy/util/ConfigObject.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="149" selection-end="149" vertical-scroll-proportion="-2.6666667">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/griffon-app/conf/Application.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="16" selection-start="375" selection-end="380" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/griffon-app/conf/Config.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="102" column="0" selection-start="2649" selection-end="2649" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="5" column="22" selection-start="166" selection-end="166" vertical-scroll-proportion="0.10142631" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/slides/Slide0.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="80" selection-start="81" selection-end="119" vertical-scroll-proportion="0.0">
+        <state line="2" column="80" selection-start="81" selection-end="119" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Downloads/groovy-1.7.0/src/main/groovy/util/GroovyTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="44" selection-start="1529" selection-end="1537" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../.griffon/0.2.1/projects/groovyTestingPresentation/plugins/slideware-0.2/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../.griffon/0.2.1/projects/groovyTestingPresentation/plugins/slideware-0.2/SlidewareGriffonPlugin.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../.griffon/0.2.1/projects/groovyTestingPresentation/plugins/slideware-0.2/griffon-app/controllers/griffon/slideware/CodeEditorController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="6" selection-start="741" selection-end="741" vertical-scroll-proportion="0.07751938" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../.griffon/0.2.1/projects/groovyTestingPresentation/plugins/slideware-0.2/SlidewareGriffonPlugin.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../.griffon/0.2.1/projects/groovyTestingPresentation/plugins/slideware-0.2/griffon-app/controllers/griffon/slideware/CodeEditorController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="23" selection-start="775" selection-end="786" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar:///opt/local/share/java/griffon-devel/lib/groovy-all-1.7.0.jar!/groovy/lang/GroovyShell.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="149" selection-end="149" vertical-scroll-proportion="0.06445116" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/slides/Slide1.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="41" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/conf/Builder.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../.griffon/0.2.1/projects/groovyTestingPresentation/plugins/slideware-0.2/SlidewareGriffonPlugin.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../.griffon/0.2.1/projects/groovyTestingPresentation/plugins/slideware-0.2/griffon-app/controllers/griffon/slideware/CodeEditorController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="23" selection-start="775" selection-end="786" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Downloads/groovy-1.7.0/src/main/org/codehaus/groovy/control/CompilerConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="13" selection-start="1336" selection-end="1336" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Downloads/groovy-1.7.0/src/main/org/codehaus/groovy/vmplugin/v5/JUnit4Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="13" selection-start="987" selection-end="987" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Downloads/groovy-1.7.0/src/main/org/codehaus/groovy/vmplugin/v5/TestNgUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="13" selection-start="963" selection-end="963" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/lifecycle/Initialize.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="65" selection-start="897" selection-end="897" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/conf/Application.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="16" selection-start="180" selection-end="185" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/conf/Config.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="102" column="0" selection-start="2649" selection-end="2649" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/resources/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Downloads/groovy-1.7.0/src/main/groovy/lang/GroovyShell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="20" selection-start="2298" selection-end="2298" vertical-scroll-proportion="0.21492538">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/slides/SlideDefaults.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="99" selection-start="556" selection-end="556" vertical-scroll-proportion="0.0">
+        <state line="25" column="71" selection-start="870" selection-end="870" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$GRIFFON_HOME$/lib/groovy-all-1.6.4.jar!/groovy/lang/GroovyShell.class">
+    <entry file="jar://$PROJECT_DIR$/../../../.griffon/0.3-BETA-2/projects/groovyTestingPresentation/plugins/slideware-0.2/lib/miglayout-3.6.3-swing.jar!/net/miginfocom/swing/MigLayout.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="149" selection-end="149" vertical-scroll-proportion="0.09846154">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../Downloads/groovy-1.7.0/src/main/org/codehaus/groovy/vmplugin/v5/JUnit4Utils.java">
+    <entry file="jar://$PROJECT_DIR$/../../../m2Home/repository/com/miglayout/miglayout/3.7.2/miglayout-3.7.2-sources.jar!/net/miginfocom/swing/MigLayout.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="13" selection-start="987" selection-end="987" vertical-scroll-proportion="0.0">
+        <state line="112" column="28" selection-start="4468" selection-end="4488" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../Downloads/groovy-1.7.0/src/main/groovy/lang/GroovyShell.java">
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.7.jar!/org/junit/Test.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="439" column="93" selection-start="16660" selection-end="16671" vertical-scroll-proportion="0.0">
+        <state line="7" column="18" selection-start="302" selection-end="302" vertical-scroll-proportion="0.1486068">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../Downloads/groovy-1.7.0/src/main/org/codehaus/groovy/vmplugin/v5/TestNgUtils.java">
+    <entry file="file://$PROJECT_DIR$/griffon-app/slides/Slide3.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="13" selection-start="963" selection-end="963" vertical-scroll-proportion="0.0">
+        <state line="5" column="11" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$GRIFFON_HOME$/lib/junit-3.8.2.jar!/junit/framework/TestCase.class">
+    <entry file="file://$PROJECT_DIR$/griffon-app/slides/Slide2.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="22" selection-start="162" selection-end="162" vertical-scroll-proportion="-2.6666667">
+        <state line="4" column="0" selection-start="143" selection-end="314" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../Downloads/groovy-1.7.0/src/main/groovy/util/GroovyTestCase.java">
+    <entry file="jar://$PROJECT_DIR$/../../../.griffon/0.3-BETA-2/projects/groovyTestingPresentation/plugins/transitions-0.1.3/lib/transition2D.jar!/com/bric/image/transition/spunk/FlurryTransition2D.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="44" selection-start="1529" selection-end="1537" vertical-scroll-proportion="0.0">
+        <state line="5" column="13" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0962406">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/griffon-app/slides/Slide1.groovy">
+    <entry file="jar://$PROJECT_DIR$/../../../.griffon/0.3-BETA-2/projects/groovyTestingPresentation/plugins/transitions-0.1.3/lib/transition2D.jar!/com/bric/image/transition/spunk/GooTransition2D.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="84" selection-start="123" selection-end="123" vertical-scroll-proportion="0.047761194">
+        <state line="11" column="11" selection-start="368" selection-end="368" vertical-scroll-proportion="-6.6666665">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../.griffon/0.3-BETA-2/projects/groovyTestingPresentation/plugins/transitions-0.1.3/lib/transition2D.jar!/com/bric/image/transition/Transition.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="8" selection-start="314" selection-end="314" vertical-scroll-proportion="-7.3333335">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/slides/Slide4.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="17" selection-start="372" selection-end="372" vertical-scroll-proportion="0.34833091">
           <folding />
         </state>
       </provider>

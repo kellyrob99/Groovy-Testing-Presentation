@@ -9,11 +9,11 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/test/unit" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/test/integration" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/griffon-app/slides" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="griffon0.2.1" level="application" />
+    <orderEntry type="library" name="griffon0.3-BETA-2" level="application" />
     <orderEntry type="module-library">
       <library name="Griffon:lib">
         <CLASSES>
@@ -24,24 +24,7 @@
         <jarDirectory url="file://$MODULE_DIR$/lib" recursive="false" />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../dotgriffon/0.2.1/projects/groovyTestingPresentation/plugins/slideware-0.2/lib/substance-5.2.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../dotgriffon/0.2.1/projects/groovyTestingPresentation/plugins/slideware-0.2/lib/miglayout-3.6.3-swing.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
+    <orderEntry type="module" module-name="groovyTestingPresentation-griffonPlugins" />
   </component>
 </module>
 

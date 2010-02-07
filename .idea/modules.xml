@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/groovyTestingPresentation.iml" filepath="$PROJECT_DIR$/groovyTestingPresentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/groovyTestingPresentation-griffonPlugins.iml" filepath="$PROJECT_DIR$/groovyTestingPresentation-griffonPlugins.iml" />
     </modules>
   </component>
 </project>

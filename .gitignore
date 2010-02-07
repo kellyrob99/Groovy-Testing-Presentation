@@ -6,4 +6,5 @@ grails-jira-plugin*.zip
 plugin.xml
 out/
 staging/
+stacktrace.log
 

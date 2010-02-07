@@ -1,14 +1,8 @@
 application {
-    title='GroovyTestingPresentation'
-    startupGroups=["DeckOptions", "DeckPlayer"]
-
-    // Should Griffon exit when no Griffon created frames are showing?
-    autoShutdown = true
-
-    // If you want some non-standard application class, apply it here
-    //frameClass = 'javax.swing.JFrame'
+	title="GroovyTestingPresentation"
+	startupGroups=["DeckOptions", "DeckPlayer"]
+	autoShutdown=true
 }
-
 resolution {
 	screen {
 		width=1024
