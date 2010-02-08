@@ -34,14 +34,19 @@ public class SlideCodeTest extends GroovyTestCase
                 if (matcher.matches())
                 {
                     println "Testing: ${slideFile.name}"
-                    scriptText = scriptText.replaceAll('::', '\n')
+                    scriptText = matcher[0][1].replaceAll('::', '\n')
                     def buf = new ByteArrayOutputStream()
                     def newOut = new PrintStream(buf)
                     def saveOut = System.out
                     System.out = newOut
                     def result = new GroovyShell().run(scriptText, slideFile.name, [])
                     System.out = saveOut
-                    assertFalse('No error should be shown', buf.toString().contains('Error'))
+                    def consoleOutput = buf.toString()
+                    assertFalse('No error should be shown',consoleOutput.contains('Error'))
+                    if(consoleOutput =~ /.*Failures: [^0]/)
+                    {
+                       fail("Detected a Failures: >0 in ${slideFile.name}")
+                    }
                 }
             }
 

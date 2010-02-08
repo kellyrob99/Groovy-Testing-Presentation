@@ -5,6 +5,7 @@ import com.bric.image.transition.spunk.GooTransition2D
 
 def script = '''import org.testng.annotations.Test
 import static org.testng.Assert.*
+@Grab(group='org.testng', module='testng', version='5.9', classifier='jdk15')
 public class TestNGTest
 {
     @Test

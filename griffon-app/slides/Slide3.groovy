@@ -3,6 +3,7 @@ import com.bric.image.transition.spunk.FlurryTransition2D
 import com.bric.image.transition.Transition2D
 
 def script = '''import org.junit.Test
+@Grab(group='junit', module='junit', version='4.7')
 public class JUnit4Test
 {
     @Test

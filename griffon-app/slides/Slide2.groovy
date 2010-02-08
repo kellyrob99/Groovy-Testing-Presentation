@@ -3,6 +3,7 @@ import com.bric.image.transition.Transition2D
 import com.bric.image.transition.spunk.FlurryTransition2D
 
 def script = '''import groovy.util.GroovyTestCase
+@Grab(group='junit', module='junit', version='3.8.2')
 public class JUnit3Test extends GroovyTestCase
 {
     public void testSimple()
