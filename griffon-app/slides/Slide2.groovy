@@ -7,7 +7,8 @@ public class JUnit3Test extends GroovyTestCase
 {
     public void testSimple()
     {
-        println "Test"    
+        assertEquals "These two strings should end up equals",
+             "ABC", "AB" + "C"    
     }
 }'''
 
