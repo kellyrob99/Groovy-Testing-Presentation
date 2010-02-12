@@ -4,7 +4,7 @@ createFooter = { idx ->
     def footer
     noparent {
         footer = panel(layout: new MigLayout("fill","2%[left]2%[left][][right]2%","[center]")) {
-            label('VIJUG 2010', cssClass: 'footer')
+            label('\u00a9 2010', cssClass: 'footer')
             label(icon: imageIcon('/griffon-icon-32x32.png'), cssClass: 'footer')
             label('Kelly Robinson - Groovy Testing Tools and Techniques', cssClass: 'footer')
             label(idx.toString(), cssClass: 'footer')

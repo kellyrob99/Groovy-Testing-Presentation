@@ -6,5 +6,7 @@ grails-jira-plugin*.zip
 plugin.xml
 out/
 staging/
+installer/
+test-output/
 stacktrace.log
 

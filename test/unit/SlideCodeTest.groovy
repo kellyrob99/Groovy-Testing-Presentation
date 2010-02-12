@@ -45,7 +45,7 @@ public class SlideCodeTest extends GroovyTestCase
                     assertFalse('No error should be shown',consoleOutput.contains('Error'))
                     if(consoleOutput =~ /.*Failures: [^0]/)
                     {
-                       fail("Detected a Failures: >0 in ${slideFile.name}")
+                       fail("Detected a Failures: >0 in ${slideFile.name} : $consoleOutput")
                     }
                 }
             }
